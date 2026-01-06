@@ -338,6 +338,9 @@
 .img-info-ing-div.w-50{
   width: 50%;
 }
+.w-45{
+  width: 45% !important;
+}
 .w-50{
   width: 50% !important;
 }
